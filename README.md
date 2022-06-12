@@ -4,7 +4,7 @@ Project of Programming GUI Applications Course
 - University of Łódz
 - (26 May 2022)
 - Teacher referance: <a href="http://math.uni.lodz.pl/~zajaczkowskip/">Paweł Zajączkowski</a>
-- A NotePAd windows form application made by me, with .NET platform.
+- A NotePad windows form application made by me, with .NET platform.
 
 <br><b>Main goal</b>
 - Please create an extended version of notepad which allow to work with more than one file.
